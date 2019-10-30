@@ -1,9 +1,10 @@
 #include <stdio.h>
 
+void bass();
 main(){
 	
-fiss();
-bass();
+	fiss();
+	bass();
 	
 }
 
