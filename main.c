@@ -7,3 +7,7 @@ bass();
 	
 }
 
+void bass(){
+	
+	printf("bass");
+}
