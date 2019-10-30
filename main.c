@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+void bass();
 int main(){
 	
 fizz();
