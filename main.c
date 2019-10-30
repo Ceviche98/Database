@@ -11,4 +11,8 @@ return 0;
 void fizz(){
 	printf("fizz");
 	}
+void bass(){
+	
+	printf("bass\n");
+}
 
