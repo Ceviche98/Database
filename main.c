@@ -1,9 +1,14 @@
 #include <stdio.h>
 
-main(){
+int main(){
 	
-fiss();
+fizz();
 bass();
-	
+
+return 0;
 }
+
+void fizz(){
+	printf("fizz");
+	}
 
