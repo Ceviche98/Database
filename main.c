@@ -9,5 +9,5 @@ bass();
 
 void bass(){
 	
-	printf("bass");
+	printf("bass\n");
 }
